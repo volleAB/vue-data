@@ -1,0 +1,17 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "koa": "^2.6.1",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6"
+  }
+}
